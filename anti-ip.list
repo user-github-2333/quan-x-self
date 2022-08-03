@@ -11,11 +11,6 @@
 #DOMAIN,message.bilibili.com,IP 
 #DOMAIN,cm.bilibili.com,IP 
 
-# =======哔哩哔哩（电报版）=====#
-DOMAIN-SUFFIX,biliapi.net,IP
-DOMAIN,api.bilibili.com,IP 
-DOMAIN,api.bilibili.tv,IP 
-DOMAIN,passport.bilibili.com,IP 
 
 # ======= 微博 ======= #
 DOMAIN,api.weibo.cn,IP
@@ -77,4 +72,10 @@ DOMAIN,www.wenshushu.cn,IP
 
 # ======  豆瓣  ======#
 ip-cidr,119.29.29.98/32,reject
-domain,frodo.douban.com,proxy
+DOMAIN,frodo.douban.com,IP
+
+# ======= 酷安 ======= #
+DOMAIN,api.coolapk.com,IP
+   
+# ======= TapTap ======= #
+DOMAIN,api.taptapdada.com,IP
