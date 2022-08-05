@@ -1,5 +1,5 @@
 # ======= 哔哩哔哩（会卡） ======= #
-#DOMAIN-SUFFIX,bilibili.com,IP
+DOMAIN-SUFFIX,bilibili.com,IP
 DOMAIN-SUFFIX,biliapi.net,IP
 DOMAIN,api.bilibili.com,IP 
 DOMAIN,api.bilibili.tv,IP 
