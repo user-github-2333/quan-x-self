@@ -13,8 +13,10 @@ DOMAIN,cm.bilibili.com,IP
 
 
 # ======= 微博 ======= #
-DOMAIN,api.weibo.cn,IP
-DOMAIN,api.weibo.com,IP 
+HOST-SUFFIX,weibo.cn,IP
+HOST-SUFFIX,weibo.com,IP
+HOST-SUFFIX,weibocdn.com,IP
+HOST-KEYWORD,weibo,IP
 
 # ======= 百度贴吧 ======= #
 DOMAIN,tieba.baidu.com,IP 
@@ -79,3 +81,15 @@ DOMAIN,api.coolapk.com,IP
    
 # ======= TapTap ======= #
 DOMAIN,api.taptapdada.com,IP
+
+# ======= TapTap ======= #
+DOMAIN,api.taptapdada.com,IP归属地
+
+# ======= 网易大神 ======= #
+DOMAIN,god.gameyw.netease.com,IP归属地
+
+# ======= 虎牙 ======= #
+ DOMAIN-SUFFIX,huya.com,IP归属地
+ 
+# ======= 懂球帝 ======= #
+DOMAIN-SUFFIX,dongqiudi.com,IP归属地
