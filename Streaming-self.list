@@ -1,5 +1,5 @@
 # Streaming Media
-#排除Spotify 哔哩哔哩 爱奇艺 
+# 排除Spotify 哔哩哔哩 爱奇艺 
 
 # (Live)
 # > Twitch
@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,tidal.com,Streaming
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*,Streaming
 USER-AGENT,YouTubeMusic*,Streaming
+
 # (Podcast)
 # > Himalaya
 USER-AGENT,Himalaya*,Streaming
